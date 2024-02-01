@@ -7,8 +7,8 @@
   Its a public repository <br> 
   > This is a quote
 
-'''cpp
-cout<<"Hello world";
+'''c
+printf(& "Hello world");
 '''
 </html>
 

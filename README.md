@@ -12,5 +12,5 @@
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Repository` 
 </html>
 <p> Github is a resource for contributing to all open source projects around the world </p>
-
+**This is a bold text **
 

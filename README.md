@@ -6,7 +6,5 @@
   
 </html>
 
-![fb1f94187f4574f55e8dd574376a5b31](https://github.com/Taran-develops/coding-solutions/assets/111736374/67a1feb1-c415-4a05-b4e4-716e2e07930f)
+<img src="C:\Users\LAB1\Desktop" width="200">
 
-
-<img src="https://github.com/favicon.ico" width="48">

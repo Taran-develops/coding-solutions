@@ -1,7 +1,7 @@
 # coding-solutions
 <html>
   <h1> Welcome to my github repository </h1>
-  <h1 style="background-color:DodgerBlue;">Hello World </h1>
+<font color="green"> Some green text </font>
   Its a public repository <br> 
   
 </html>

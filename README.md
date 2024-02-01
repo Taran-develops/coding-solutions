@@ -6,5 +6,5 @@
   
 </html>
 
-<img src="C:\Users\LAB1\Desktop" width="200">
+<img src="C:\Users\LAB1\Desktop.jpg" width="200">
 

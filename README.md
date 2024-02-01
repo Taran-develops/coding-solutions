@@ -5,6 +5,6 @@
   Its a public repository <br> 
   
 </html>
+![Alt Text](C:\Users\LAB1\Desktop)
 
-<img src="C:\Users\LAB1\Desktop.jpg" width="200">
 
